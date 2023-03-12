@@ -36,16 +36,3 @@
     ?>
     </div>
 </main>
-
-<style>
-    img {
-        width: 150px;
-        height: 150px
-    }
-    .container {
-        display: flex
-    }
-    .element {
-        padding: 10px;
-    }
-</style>
